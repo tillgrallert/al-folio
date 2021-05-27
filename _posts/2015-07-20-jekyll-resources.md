@@ -3,13 +3,15 @@ layout: post
 title: "Academic writing in plain text: useful resources"
 author: Till Grallert
 date: 2015-07-20
-published: false
+published: true
 categories:
-- blog
+    - blog
 tags:
-- links
-- tools
-- resources
+    - links
+    - tools
+    - resources
+    - demo
+    - jekyll theme
 ---
 
 This post is more of a continuously updated note on possible workflows that are based on plain text and the principles of minimal computing.
